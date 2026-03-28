@@ -48,17 +48,6 @@ Memory allows you to find trending models on the Roblox store and reupload them 
 
 ---
 
-## Dependencies
-
-- [noblox.js](https://www.npmjs.com/package/noblox.js) – Roblox API library  
-- [node-fetch](https://www.npmjs.com/package/node-fetch) – Fetch API for Node.js  
-- [axios](https://www.npmjs.com/package/axios) – HTTP client  
-- [rbxm-parser](https://www.npmjs.com/package/rbxm-parser) – Roblox model parsing  
-- [dotenv](https://www.npmjs.com/package/dotenv) – Environment variable loader  
-- [@google/generative-ai](https://www.npmjs.com/package/@google/generative-ai) – AI model integration  
-
----
-
 ## Support
 
 - Discord: @_ar1sk\_  
