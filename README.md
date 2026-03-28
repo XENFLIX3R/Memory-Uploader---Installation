@@ -61,4 +61,4 @@ Memory allows you to find trending models on the Roblox store and reupload them 
 
 ## Support
 
-- Discord: @_ar1sk_  
+- Discord: @_ar1sk\_  
