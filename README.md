@@ -9,10 +9,10 @@ Memory allows you to find trending models on the Roblox store and reupload them 
 
 ## Installation
 
-1. **Install Node.js 22.19.0**  
+1. **Install [Node.js](https://nodejs.org/en/) 22.19.0**  
    - [Windows Installer](https://nodejs.org/dist/v22.19.0/node-v22.19.0-x64.msi)  
    - [Windows Zip](https://nodejs.org/dist/v22.19.0/node-v22.19.0-win-x64.zip)  
-   - [All versions](https://nodejs.org/en/download/archive/)
+   - [v22 Archive](https://nodejs.org/en/download/archive/v22.19.0/)
 
 2. **Create a folder** anywhere on your PC (desktop recommended) and name it `Memory Uploader`.
 
