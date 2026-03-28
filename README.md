@@ -17,7 +17,7 @@ Memory allows you to find trending models on the Roblox store and reupload them 
 2. **Create a folder** anywhere on your PC (desktop recommended) and name it `Memory Uploader`.
 
 3. **Download the files**  
-   - Get `package.json` and `index.js` from @_ar1sk_ on Discord.
+   - Get `package.json` and `index.js` from @_ar1sk\_ on Discord.
 
 4. **Install dependencies**  
    Open a terminal in the folder and run:  
