@@ -1,7 +1,7 @@
 # Memory Uploader - Installation
 
 **Version:** 3.6.2  
-**Author:** @_ar1sk_ on Discord  
+**Author:** @_ar1sk\_ on Discord  
 
 Memory allows you to find trending models on the Roblox store and reupload them with a "tweak" ;)
 
